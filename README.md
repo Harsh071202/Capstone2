@@ -56,7 +56,7 @@ insurance-fraud-detection/
 
 ## 🙌 Acknowledgments
 
-- Dataset: [Kaggle / Other Source if known]
+- Dataset: Kaggle
 - Libraries: Scikit-learn, XGBoost, imbalanced-learn
 
 ---
